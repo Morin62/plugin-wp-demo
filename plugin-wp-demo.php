@@ -1,18 +1,11 @@
 ﻿<?php
-/**
- * @package Akismet
- */
 /*
-Plugin Name: Akismet
+Plugin Name: Demo WP Plugin
 Plugin URI: https://akismet.com/
-Description: Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. It keeps your site protected even while you sleep. To get started: 1) Click the "Activate" link to the left of this description, 2) <a href="https://akismet.com/get/">Sign up for an Akismet plan</a> to get an API key, and 3) Go to your Akismet configuration page, and save your API key.
-Version: 3.2
-Author: Automattic
-Author URI: https://automattic.com/wordpress-plugins/
+Description: un plugin WP versionné avec Git
+Version: 1.1
 License: GPLv2 or later
 Text Domain: akismet
-*/
-
 /*
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
