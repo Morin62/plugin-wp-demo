@@ -1,2 +1,2 @@
 # plugin-wp-demo
-demo de plugin WP selon GIT
+demo de plugin WP selon GIT. Modifications ajoutées...
